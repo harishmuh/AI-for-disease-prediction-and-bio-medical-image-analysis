@@ -44,7 +44,7 @@ Machine learning, deep learning, and data analytics applied to biomedical, biolo
 
 **Deployment & Development:** Streamlit · Docker · Git · GitHub · Google Colab
 
----
+
 
 ## 🚀 Get in Touch
 
